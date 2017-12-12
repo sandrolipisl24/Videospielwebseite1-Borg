@@ -14,18 +14,18 @@ body {
 hr {
   max-width: 50px;
   border-width: 3px;
-  border-color: #F05F40; }
+  border-color: #5F9EA0; }
 
 hr.light {
   border-color: #fff; }
 
 a {
-  color: #4682B4;
+  color: 	#5F9EA0;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s; }
   a:hover {
-    color: #4682B4; }
+    color: 	#5F9EA0; }
 
 h1,
 h2,
@@ -36,10 +36,10 @@ h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
 
 .bg-primary {
-  background-color: #4682B4 !important; }
+  background-color:	#5F9EA0 !important; }
 
 .bg-dark {
-  background-color: #212529 !important; }
+  background-color: #5F9EA0 !important; }
 
 .text-faded {
   color: rgba(255, 255, 255, 0.7); }
@@ -51,29 +51,29 @@ section {
   margin-top: 0; }
 
 ::-moz-selection {
-  color: #4682B4;
-  background: #212529;
+  color: #5F9EA0;
+  background: #5F9EA0;
   text-shadow: none; }
 
 ::selection {
-  color: #4682B4;
-  background: #212529;
+  color: #5F9EA0;
+  background: #5F9EA0;
   text-shadow: none; }
 
 img::selection {
-  color: #4682B4;
+  color: #5F9EA0;
   background: transparent; }
 
 img::-moz-selection {
-  color: #4682B4;
+  color: #5F9EA0;
   background: transparent; }
 
 body {
-  -webkit-tap-highlight-color: #212529; }
+  -webkit-tap-highlight-color: #5F9EA0; }
 
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
-  background-color: #4682B4;
+  background-color: #5F9EA0;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
@@ -223,10 +223,10 @@ header.masthead {
   padding: 1rem 2rem; }
 
 .btn-primary {
-  background-color: #4682B4;
-  border-color: #4682B4; }
+  background-color: #5F9EA0;
+  border-color: #5F9EA0; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-    color: #4682B4;
-    background-color: #ee4b28 !important; }
+    color: #5F9EA0;
+    background-color: #5F9EA0 !important; }
   .btn-primary:active, .btn-primary:focus {
     box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important; }
