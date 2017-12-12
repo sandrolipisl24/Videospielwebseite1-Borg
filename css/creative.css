@@ -179,7 +179,7 @@ header.masthead {
     text-align: center;
     opacity: 0;
     color: #A52A2A;
-    background: #008B8B(240, 95, 64, 0.9);
+    background: #008B8B;
     -webkit-transition: all 0.2s;
     -moz-transition: all 0.2s;
     transition: all 0.2s; }
