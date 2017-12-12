@@ -42,7 +42,7 @@ h6 {
   background-color: #5F9EA0 !important; }
 
 .text-faded {
-  color: rgba(255, 255, 255, 0.7); }
+  color: #008B8B(255, 255, 255, 0.7); }
 
 section {
   padding: 8rem 0; }
@@ -106,7 +106,7 @@ body {
       border-color: transparent;
       background-color: transparent; }
       #mainNav .navbar-brand {
-        color: rgba(255, 255, 255, 0.7); }
+        color: #008B8B(255, 255, 255, 0.7); }
         #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
           color: #A52A2A; }
       #mainNav .navbar-nav > li.nav-item > a.nav-link {
@@ -179,7 +179,7 @@ header.masthead {
     text-align: center;
     opacity: 0;
     color: #A52A2A;
-    background: rgba(240, 95, 64, 0.9);
+    background: #008B8B(240, 95, 64, 0.9);
     -webkit-transition: all 0.2s;
     -moz-transition: all 0.2s;
     transition: all 0.2s; }
